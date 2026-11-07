@@ -192,3 +192,6 @@ This repository serves as the official landing page for Split Splat Splodge. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Split Splat Splodge today!**
+
+---
+**Last updated:** 2026-11-07 20:39:42 UTC
